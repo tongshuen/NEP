@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="269.1745" height="185.2349" viewBox="0 0 269.1745 185.2349">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M36 36H233.1745V148.7758H36Z"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M36 36H233.1745V149.2349H36Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M37.5 37.5H231.6745V147.2758H37.5Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M41.83507 85.81012H227.33946V148.77585H41.83507Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M44.49139 87.41043H224.6839V147.27585H44.49139Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M37.5 37.5H231.6745V147.2758H37.5Z" fill="#6bc8ff"/>
+<path transform="matrix(1,0,0,1,37.5,37.95909)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H194.1745V109.7758H0Z"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M231.6745 38.43314C231.6748 37.91992 231.2085 37.5 230.6387 37.5H38.53586C37.96606 37.50004 37.5 37.91996 37.5 38.43314V147.2758L132.8959 80.65799C133.4136 80.33134 133.9932 80.13309 134.563 80.13309 135.1331 80.13311 135.6993 80.273 136.1653 80.59966L231.6745 147.2758ZM231.6745 38.43314" fill="#00ffaa"/>
+<path transform="matrix(1,0,0,1,37.5,37.95909)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M194.1745 108.8427C194.1748 109.3559 193.7085 109.7758 193.1387 109.7758H1.035854C.4660624 109.7758-.000002022693 109.3559-.000002022693 108.8427V0L95.3959 66.61785C95.91357 66.9445 96.49316 67.14275 97.06299 67.14275 97.6331 67.14273 98.19926 67.00284 98.66533 66.67618L194.1745 0ZM194.1745 108.8427"/>
+</g>
+<g clip-path="url(#clip_2)">
+<text fill="#ff0000" xml:space="preserve" transform="matrix(1 0 -0 1 48.08868 107.98545)" font-size="21.24" font-family="STSong"><tspan y="0" x="0">N</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 48.08868 107.98545)" font-size="21.24" font-family="STSong"><tspan y="0" x="16.37604 25.55172 39.7188">ew </tspan></text>
+<text fill="#ff0000" xml:space="preserve" transform="matrix(1 0 -0 1 61.783 132.98546)" font-size="21.24" font-family="STSong"><tspan y="0" x="0">e</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 61.783 132.98546)" font-size="21.24" font-family="STSong"><tspan y="0" x="9.17568 25.87032 36.61776 42.352563 48.12984">mail </tspan></text>
+<text fill="#ff0000" xml:space="preserve" transform="matrix(1 0 -0 1 146.9493 132.98546)" font-size="21.24" font-family="STSong"><tspan y="0" x="0">p</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 146.9493 132.98546)" font-size="21.24" font-family="STSong"><tspan y="0" x="11.17224 18.839882 29.693524 36.490327 47.343969 56.09485 66.94849">rotocol</tspan></text>
+</g>
+<g clip-path="url(#clip_3)">
+<path transform="matrix(1,0,0,-1,0,185.2349)" d="M134.6118 87.41043 44.49139 147.2758H224.6839ZM134.6118 87.41043" fill="#00ffaa"/>
+<path transform="matrix(1,0,0,1,44.49139,37.95909)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M90.12045 59.86541 .000003779068 0H180.1925ZM90.12045 59.86541"/>
+</g>
+<g clip-path="url(#clip_4)">
+<text fill="#ff0000" xml:space="preserve" transform="matrix(1 0 -0 1 116.3371 70.3027)" font-size="18.36" font-family="STSong"><tspan y="0" x="0 14.155561 26.199723">NEP</tspan></text>
+</g>
+</svg>
